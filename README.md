@@ -1,5 +1,5 @@
 # TAM
-This code is for paper ["Representing Temporal Attributes for Schema Matching" (KDD2020)]: https://dl.acm.org/doi/10.1145/3394486.3403115"
+This code is for paper ["Representing Temporal Attributes for Schema Matching" (KDD2020)](https://dl.acm.org/doi/10.1145/3394486.3403115).
 ## File Structure
 * codes: source code of algorithms and experiments code
 * data: Dataset source files used in experiments
